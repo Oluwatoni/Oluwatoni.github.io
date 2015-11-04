@@ -17,4 +17,4 @@ $(document).ready(function() {
 	if(window.location.href.indexOf('#portfolioModal6') != -1) {
     $('#portfolioModal6').modal('show');
 	}
-}
+});
