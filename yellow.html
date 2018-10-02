@@ -46,24 +46,28 @@
 							<div class="inner">
 								<h4>Background</h4>
 								<p>For our MTE 360 course, Mechatronics Engineering Design Workshop, our team was tasked with designing an underwater robot to complete and obstacle
-								   course. To acheive the full marks in the course out robot was expected to complete the obstacle autonomously.
+								   course. To acheive the full marks in the course out robot was expected to complete the obstacle autonomously. I was responsible for the sensing and
+								   controls on-board the robot.
 								</p>
                                 <div class="col-12">
 									<span class="image fit">
 										<img src="images/rov_sketches.png" alt="" />
 									</span>
 								</div>
+								<h4>Design</h4>
 								<p> To enable full autonomy, we started our design by focusing on the underwater sensing options available.
 									We decided to invest in waterproof ultrasonic sensors for longe range obstacle detections, greater than 1m, and
 									design a short range distance sensor. The short range sensing was necessary because the deadzone of the ultrasonic sensors
 									was quadrupled because sound travels four times faster trough air than in water. The short range sensor was designed on
-									the 
+									based on the correlating the intensity of light reflected off obstacles to a distance measurement. Unfortunately the sensor was
+									flooded during tests preventing use from using it during competition. The final version of the sensor is pictured below.
+									ADD PICTURE.
+									To track our orientation and provide a rudimentary estimate of our velocity, an IMU with a magnetometer were added to the ROV.
+									Using the computed orientation we were able to design a PID controller to fix the orientation of the robot during operation.
+									We also integrated a depth sensor with which we were able to command the robot to navigate to different depths in order to avoid obstacles.
 								</p>
 								<hr/>
 
-								<h4>Design</h4>
-								<p>
-								</p>
                                 <div class="col-12">
 									<span class="image fit">
 										<img src="images/yellow_sub.gif" alt="" />
