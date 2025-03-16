@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://oluwatoni.github.io/sitemap.xml
+Sitemap: https://oogunma.de/sitemap.xml
