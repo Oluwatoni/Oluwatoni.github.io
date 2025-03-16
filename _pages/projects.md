@@ -1,6 +1,6 @@
 ---
 layout: page
-title: robots 
+title: robots
 permalink: /robots/
 description: A few robots I've worked on.
 nav: true

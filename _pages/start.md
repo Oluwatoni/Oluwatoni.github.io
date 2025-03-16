@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic_toni.jpg
   image_circular: false # crops the image to make it circular
-  more_info: #>
+  more_info:#>
     # <p>555 your office number</p>
     # <p>123 your address street</p>
     # <p>Your City, State 12345</p>
@@ -17,6 +17,7 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
 Hi! I'm Toni, short for [Oluwatoni](https://youtu.be/roa7i_KPFdY?t=5). I design and build software for robotic systems that solve customer problems. I focus primarily on robotic perception but I've worked on localization, mapping and controls in the past. I'm currently a Senior Software Engineer
 at [Berkshire Grey](https://www.berkshiregrey.com/) working on perception problems in the logistics and retail space.
 
