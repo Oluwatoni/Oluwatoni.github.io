@@ -3,7 +3,7 @@ layout: page
 title: robots
 permalink: /robots/
 description: A few robots I've worked on.
-nav: true
+nav: false 
 nav_order: 2
 # display_categories: [work, fun] Maybe we can add these later
 horizontal: false

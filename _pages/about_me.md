@@ -2,13 +2,14 @@
 layout: about
 permalink: /about/
 title: about me
-subtitle: Roboticist, Tinkerer, Lifelong Learner
+header: About Me
+subtitle:
 nav: true
 nav_order: 3
 
 profile:
   align: left
-  image: prof_pic_toni.jpg
+  image: wro_toni.jpg
   image_circular: false # crops the image to make it circular
   more_info:
 
@@ -17,9 +18,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I've been building robots since I was 13 years old. Over the years I've transitioned from Mindstorms to ROS and enjoyed the journey so far.
+I've been building robots since I was 13 years old. Over the years as I've transitioned from Mindstorms to ROS I enjoyed every step of the way.
 
-Before [Berkshire Grey](https://www.berkshiregrey.com), I worked at two start-ups in the self-driving vehicles industry: [Aerovect](https://aerovect.com/#/home) and [Nuro](https://www.nuro.ai/). At AeroVect I designed and built the detection and tracking systems for vehicles and pedestrians at airports. At Nuro, I led the work on [siren detection and localization](https://medium.com/nuro/safety-nuro-our-vehicles-f3c33d605614#:~:text=Emergency%20vehicle%20microphone,safely%20pull%20over.) for emergency vehicles. Before that, I was in the industrial automation space building localization, [mapping](https://communitech.ca/technews/clearpath-maps-a-new-way-forward.html) and calibration software at Clearpath Robotics, pre-acquisition. You can view an updated copy of my resume [here](https://drive.google.com/file/d/1rEeNh2QY2G2TiRXiHhyz_2sWhtJeEV-m/view?usp=sharing).
+Before [Berkshire Grey](https://www.berkshiregrey.com), I worked at two start-ups in the self-driving vehicles industry: [Aerovect](https://aerovect.com/#/home) and [Nuro](https://www.nuro.ai/). At AeroVect I designed and built the detection and tracking systems for vehicles and pedestrians at airports. At Nuro, I led the work on [siren detection and localization](https://medium.com/nuro/safety-nuro-our-vehicles-f3c33d605614#:~:text=Emergency%20vehicle%20microphone,safely%20pull%20over.) for emergency vehicles. Prior to that, I built localization, [mapping](https://communitech.ca/technews/clearpath-maps-a-new-way-forward.html) and calibration software at Clearpath Robotics, pre Rockwell acquisition.
+
+You can view an updated copy of my resume [here](https://drive.google.com/file/d/1rEeNh2QY2G2TiRXiHhyz_2sWhtJeEV-m/view?usp=sharing).
 
 While working full-time, I completed a computer science masters degree from Georgia Tech, specializing
 in Machine learning. My undergraduate degree is in Mechatronics Engineering from the University of Waterloo
