@@ -34,7 +34,7 @@ With more traditional programs there's a low acceptance rate and high completion
 I find there are two groups[^1] of people that benefit the most from the program:
 
 - People looking to switch into software development who benefit from the legitimacy a computer science masters degree provides.
-- Folks trying to deepen their knowledge in field of computer science.
+- Folks trying to deepen their knowledge in the field of computer science.
 
 I fell into the latter group, in my first job out of school I struggled to keep up with the rest of my team. I was working on the perception team at a well known Canadian robotics startup. Most of my colleagues had PhDs in robotics and were using what they knew to tackle harder problems. I would end up spending evenings and weekends reading up on the concepts brought up in meetings to keep up with the team. When I found out about the program it looked like a great way to cover a lot of ground in a structured way and catch-up to my colleagues.
 
@@ -49,7 +49,7 @@ For anyone considering the OMSCS program, or some other online Computer Science(
 - Pace yourself
   - If you have a limited amount of time to work on school work limit yourself to one course a term. If you have more bandwidth, I would recommend pairing two courses with different kinds of deliverables. I would avoid working on two courses with software as deliverables. If you write code in your day job it can get overwhelming coming to write even more code.
 - Don't skip difficult courses
-  - Don't let scary reviews on [OMS Reviews](https://www.omscentral.com/) dissuade you from taking more challenging courses. They can often be very rewarding, both [CV](https://omscs.gatech.edu/cs-6476-computer-vision) and [ML](https://omscs.gatech.edu/cs-7641-machine-learning) were critical in forming a foundational knowledge that use regularly at work. Courses like [DL](https://omscs.gatech.edu/cs-7643-deep-learning) helped me get more comfortable reading academic papers. I would have missed out on these learnings if I skipped these courses or substituted them.
+  - Don't let scary reviews on [OMS Reviews](https://www.omscentral.com/) dissuade you from taking more challenging courses. They can often be very rewarding, both [CV](https://omscs.gatech.edu/cs-6476-computer-vision) and [ML](https://omscs.gatech.edu/cs-7641-machine-learning) were critical in forming foundational knowledge that I use regularly at work. Courses like [DL](https://omscs.gatech.edu/cs-7643-deep-learning) helped me get more comfortable reading academic papers. I would have missed out on these learnings if I skipped these courses or substituted them.
 - Make Flashcards
   - These were the best study tools for me, I would build out the flashcard decks using [Anki](https://apps.ankiweb.net/) and review them ahead of quizzes and exams. I tried to write the questions for these in tricky/complicated ways to ensure that the concepts stuck. This was because I found some course would deliberately ask questions in more complicated ways to ensure that the concepts were understood, I'm looking at you [Intro to Graduate Algorithms](https://omscs.gatech.edu/cs-6515-intro-graduate-algorithms).
   - The flashcards also doubled as great interview prep material!
